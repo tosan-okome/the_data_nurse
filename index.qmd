@@ -1,0 +1,25 @@
+---
+title: "Tosan Okome"
+subtitle: "Nurse | Research Data Scientist"
+image: assets/avatar.JPG
+image-alt: "Portrait of Tosan against a mint green background wearing a floral top and a big smile"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/tosan-okome
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/tosan-okome-860105203
+---
+
+Hi there! I’m a nurse with a love for data, here to share my journey from bedside care to data science. Here's how it began. 
+After countless hours at the bedside, I found myself wanting to explore further. My curiosity and drive to understand the “why” behind every process revealed a new path—one that combined my love for healthcare with my desire for deeper insights and solutions.
+
+I'm currently working as a registered nurse in Nigeria while simultaneously leading the CHAOSS Africa Researchers team, a focus group under CHAOSS Africa dedicated to researching open-source issues in Africa. I’m also continually building my technical skills in R and statistics, as you'll see in my projects section, and I’m expanding into SQL and Python. Before discovering the world of open-source software, I primarily used Excel, SPSS, and Power BI for my analyses.
+
+When I'm not diving into data or healthcare, you'll probably find me reading Spy×Family for the nth time, digging into theology, or writing (hopefully not terrible) poems. 
+
+This space is a documentation of my journey, and a place where I share insights, projects, and lessons learned along the way.
+Thanks for stopping by!
